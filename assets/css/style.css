@@ -1,0 +1,32 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+p.que{
+    font-weight: bold;
+}
+
+p.radio{
+    text-align: center;
+}
+
+.img-circle {
+    border-radius: 50%;
+   }
+
+img.img-circle{
+  display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
